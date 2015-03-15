@@ -1,0 +1,73 @@
+div.gimmickpost{
+	width:750px;
+	background:#ffffff;
+	display:block;
+}
+
+div.gimmickpost_bottom{
+	background:url('http://media.insidepulse.com/shared/images/vx/bottom750.jpg');
+	height:207px;
+	width:750px;
+	clear:both;
+}
+
+div.sixpulse{
+	background:url('http://media.insidepulse.com/shared/images/vx/6pulse750.jpg') no-repeat;
+	padding-top:360px;
+}
+
+div.sixpulse_left{
+	width:270px;
+	float:left;
+	margin:10px;
+}
+
+div.sixpulse_left img{
+	width:250px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	background:#eeeeee;
+	border:10px solid #cccccc;
+}
+
+div.sixpulse_right{
+	width:350px;
+	float:right;
+	margin-top:-110px;
+}
+
+div.sixpulserow{
+	background:#ffffff;
+	border:5px solid #333333;
+	width:100%;
+	padding:4px;
+	margin:4px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	height:60px;
+}
+
+div.sixpulserow:hover{
+	background:#fd4317;
+	color:#ffffff;
+	border:5px solid #fff400;
+}
+
+div.sixpulse_bottom_box{
+	width:400px;
+	padding:20px;
+	margin:0 auto;
+	background:#ffffff;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	border:5px solid #333333;
+}
+
+div.gimmicklinkred{
+	height:2px;
+	background:#ad151d;
+	width:100%
+}

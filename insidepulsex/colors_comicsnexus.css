@@ -1,0 +1,26 @@
+a{
+	color:#F26122;
+	text-decoration:none;
+}
+
+a:hover{
+	color:#F26122;
+	text-decoration:underline;
+}
+
+.color1{
+	color:#F26122;
+}
+
+.top {
+	background:#F26122;
+	text-align:center;
+}
+
+.top img.logo{
+	padding-top:10px;
+}
+
+.containervx{
+	padding-top:170px;
+}
